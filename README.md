@@ -13,7 +13,7 @@ O foco é evidenciar:
     * **Prioridade Pedestre:** Interrupção por hardware no pino 2 (botão). 
     * **Segurança:** Transição forçada para amarelo/vermelho antes da liberação da travessia e sinalização de encerramento por LED piscante. 
 ## 🚀 Como Executar
-1. O código principal está localizado no arquivo semaforo.ino.
+1. O código principal está localizado no arquivo sketch.ino.
 2. As conexões de hardware estão descritas no arquivo diagram.json. 
 3. **Simulação Online:** Você pode testar o comportamento do sistema diretamente no navegador:
     * ▶️ [Link para a Simulação no Wokwi](https://wokwi.com/projects/425977618350130177) 
