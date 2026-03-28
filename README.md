@@ -19,5 +19,6 @@ O foco é evidenciar:
     * ▶️ [Link para a Simulação no Wokwi](https://wokwi.com/projects/425977618350130177) 
 ## 📚 Evolução do Projeto
 Esta é a primeira de uma série de práticas. Na sequência deste portfólio, outros exemplos serão apresentados utilizando o FreeRTOS no ESP32, demonstrando como o escalonamento de tarefas (Tasks) e semáforos binários simplificam a gestão de sistemas críticos e de tempo real. 
+
 ---
 ### Prof. Thiago José da Luz, PhD 
