@@ -64,7 +64,7 @@ A prática evidencia as limitações do uso excessivo de `delay()` e reforça a 
 2. As conexões de hardware estão descritas no arquivo `diagram.json`.
 3. **Simulação Online:**  
    O comportamento do sistema pode ser testado diretamente no navegador por meio do link abaixo:  
-   ▶️ *Link para a Simulação no Wokwi*
+   ▶️ [Link para a Simulação no Wokwi](https://wokwi.com/projects/425977618350130177)
 
 ---
 
